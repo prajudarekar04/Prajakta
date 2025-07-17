@@ -181,6 +181,8 @@ nav ul li a:hover {
   background: #e0e7ff;
   color: #1e3a8a;
   padding: 10px 15px;
+  margin-left: 0;
+  list-style: none; /* Just in case */
   border-radius: 8px;
   margin-bottom: 10px;
   font-weight: 500;
